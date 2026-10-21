@@ -1,0 +1,8 @@
+name = "mi-nutri-ia"
+main = "worker.js"
+compatibility_date = "2026-10-21"
+
+[vars]
+# Sustituye por el origen HTTPS real de tu web (sin barra final)
+ALLOWED_ORIGIN = "https://TU-USUARIO.github.io"
+OPENAI_MODEL = "gpt-5-mini"
